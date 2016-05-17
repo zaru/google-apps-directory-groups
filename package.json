@@ -1,0 +1,19 @@
+{
+  "name": "google-apps-directory-groups",
+  "version": "1.0.0",
+  "description": "Group client of GoogleApps Directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zaru/google-apps-directory-groups.git"
+  },
+  "author": "zaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaru/google-apps-directory-groups/issues"
+  },
+  "homepage": "https://github.com/zaru/google-apps-directory-groups#readme"
+}
